@@ -1,2 +1,4 @@
 Ahora si podemos hacer ccualquier cambio y subirlo a git 
 este es mi segunda bajada del repo git hhub
+cambio en ip y subi r 
+
